@@ -1,8 +1,8 @@
-fastapi==0.111.0
+fastapi
 uvicorn
-pydantic==1.10.15
-sse-starlette==2.1.0
-langchain==0.2.5
-langchain-community==0.2.5
-transformers==4.41.2
-google-cloud-aiplatform==1.53.0
+pydantic
+sse-starlette
+langchain
+langchain-community
+transformers
+google-cloud-aiplatform
